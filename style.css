@@ -1,0 +1,63 @@
+.footer{
+
+    position: fixed;
+
+    bottom: 0;
+
+    text-align: center;
+
+    width: 100%;
+
+    background:rgb(212, 207, 207);
+
+    font-size: 20px;
+
+    text-shadow: 5px 5px 5px rgba(112, 128, 144, 0.363);
+
+}
+
+body{
+
+    background: rgb(218, 218, 218);
+
+    font-family: 'Amiri', serif;
+
+}
+
+.header_div{
+
+font-weight: bolder;
+
+background: white;
+
+letter-spacing: 2px;
+
+font-size: 22px;
+
+}
+
+.header_div p {
+
+    color: slategray;
+
+}
+
+.main_div button{
+
+    font-weight: bolder;
+
+    margin-top: 30px;
+
+    width: 130px;
+
+    font-size: 22px;
+
+    color: red;
+
+}
+
+.header_div h2{
+
+    text-shadow: 5px 3px 3px red;
+
+}
